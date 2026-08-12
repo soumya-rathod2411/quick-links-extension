@@ -6,7 +6,12 @@ No accounts, no backend, no tracking. Everything is stored locally in your brows
 
 ## Demo
 
-![Quick Links demo](Tutorial/demo.gif) 
+![How to add the extension](Tutorial/how%20to%20add%20extension.mp4)
+
+## Screenshots
+
+![Step 1](Tutorial/step%201.jpg)
+![Step 2](Tutorial/step%202.jpg)
 
 ## Features
 

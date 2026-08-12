@@ -4,6 +4,10 @@ A tiny Chrome extension for people who visit the same handful of websites over a
 
 No accounts, no backend, no tracking. Everything is stored locally in your browser via `chrome.storage.local`.
 
+## Demo
+
+![Quick Links demo](Tutorial/demo.gif) 
+
 ## Features
 
 - Add a shortcut with a name, URL, and optional description

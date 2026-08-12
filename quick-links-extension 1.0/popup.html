@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Quick Links</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Quick Links</h1>
+
+    <input type="text" id="searchBox" placeholder="Search shortcuts..." />
+
+    <div id="linkList" class="link-list"></div>
+
+    <button id="addBtn" class="add-btn">+ Add Shortcut</button>
+
+    <div id="formPanel" class="form-panel hidden">
+      <input type="text" id="nameInput" placeholder="Shortcut name (e.g. Attendance Portal)" />
+      <input type="text" id="urlInput" placeholder="URL (e.g. https://example.com)" />
+      <textarea id="descInput" placeholder="Short description (optional)"></textarea>
+      <div class="form-actions">
+        <button id="saveBtn">Save</button>
+        <button id="cancelBtn">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

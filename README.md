@@ -4,10 +4,6 @@ A tiny Chrome extension for people who visit the same handful of websites over a
 
 No accounts, no backend, no tracking. Everything is stored locally in your browser via `chrome.storage.local`.
 
-## Demo
-
-![How to add the extension](Tutorial/how%20to%20add%20extension.mp4)
-
 ## Screenshots
 
 ![Step 1](Tutorial/step%201.jpg)

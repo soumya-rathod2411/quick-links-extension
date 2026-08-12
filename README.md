@@ -6,8 +6,8 @@ No accounts, no backend, no tracking. Everything is stored locally in your brows
 
 ## Screenshots
 
-![Step 1](https://ibb.co/JWbYR7rR)
-![Step 2](https://ibb.co/p6ThLhk1)
+<img width="2048" height="1365" alt="step 1" src="https://github.com/user-attachments/assets/f17faf8f-4170-4011-bd6c-c70db5fa855e" />
+<img width="1777" height="1920" alt="step 2" src="https://github.com/user-attachments/assets/95ac3af7-e4ea-4ccc-a805-2a232fc61ba0" />
 
 ## Features
 
